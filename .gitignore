@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+.pyc
+=======
+*.pyc
+dd.sqlite3
+local.py
+>>>>>>> 15b3906e65dad116fc976597b8da8243bca2a418
